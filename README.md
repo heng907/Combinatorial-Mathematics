@@ -1,2 +1,4 @@
 # Combinatorial-Mathematics
-2025_spring class
+### [NYCU 2025 Spring] Combinatorial Mathematics
+### 授課老師：	高孟駿 教授
+
